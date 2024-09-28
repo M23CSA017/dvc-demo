@@ -1,0 +1,4 @@
+[core]
+    remote = remote
+['remote "remote"']
+    url = C:\Users\PRABHA~1\AppData\Local\Temp\dvc-demo-data-storage
